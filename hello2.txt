@@ -1,1 +1,2 @@
 second text MASTER
+Added another line
