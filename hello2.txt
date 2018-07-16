@@ -1,1 +1,2 @@
 second text MASTER
+Updated content from slave branch
